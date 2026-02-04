@@ -1,4 +1,4 @@
-# Matriz de Evaluación de Proveedores: Tecnologías 4.0 para Transformadores
+# Matriz de Evaluación de Proveedores
 
 **Propósito:** Comparar opciones para priorizar inversiones según costo, facilidad e impacto.
 
