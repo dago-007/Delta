@@ -1,4 +1,4 @@
-# Plan Estratégico: Transformación 4.0 en Manufactura de Transformadores
+# Plan Estratégico: Transformación en Delta
 
 **Fecha:** Febrero 2026
 **Objetivo:** Implementación de IoT y Nuevas Tecnologías para mejora de KPIs y Productividad.
