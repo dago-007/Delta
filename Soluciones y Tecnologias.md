@@ -1,10 +1,10 @@
 # Catálogo de Soluciones y Tecnologías: Manufactura de Transformadores
 
-**Descripción:** Listado de proveedores líderes y tecnologías específicas para la implementación de la estrategia 4.0.
+**Descripción:** Listado de proveedores líderes y tecnologías específicas para la implementación de la estrategia
 
 ---
 
-## 1. Piso de Producción (IIoT y Sensores)
+## 1. Piso de Producción (IoT y Sensores)
 *Para monitorear maquinaria (Bobinadoras, Hornos, Corte).*
 
 ### Sensores Industriales (Hardware)
